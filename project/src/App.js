@@ -9,8 +9,8 @@ function App() {
       <Wrapper>
         <StyledButton background={'red'}>Teste</StyledButton>
         <a href="#">Clique aqui</a>
-
         <ComponentButton text={'Componente'}/>
+        <StyledButton>Teste de estilização temática</StyledButton>
       </Wrapper>
     </div>
   );
